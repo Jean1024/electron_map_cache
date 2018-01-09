@@ -1,0 +1,12 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ./app/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
